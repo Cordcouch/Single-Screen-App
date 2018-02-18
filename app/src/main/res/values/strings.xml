@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sono Motors</string>
+
+    <!-- Title -->
+    <string name="title">Think different</string>
+    <!-- Subtitle -->
+    <string name="subtitle">A solar powered car for everyone</string>
+    <!-- Address Line 1 -->
+    <string name="address1">Waldmeisterstraße 76</string>
+    <!-- Address Line 2 -->
+    <string name="address2">80935 Munich</string>
+    <!-- Address Line 3 -->
+    <string name="address3">Germany</string>
+    <!-- Email -->
+    <string name="email">info@sonomotors.com</string>
+    <!-- Web domain -->
+    <string name="domain">www.sonomotors.com</string>
+
+    <!-- Image Content Description -->
+    <!-- ......................... -->
+
+    <!-- Cars -->
+    <string name="bidi_pic">Car image</string>
+    <!-- Interior 1 -->
+    <string name="interior1_pic">First interior image</string>
+    <!-- Interior 2 -->
+    <string name="interior2_pic">Second interior image</string>
+</resources>
